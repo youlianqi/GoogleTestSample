@@ -176,6 +176,18 @@
 			UniqueIdentifier="{4FC737F1-C7A5-4376-A066-2A32D752A2FF}"
 			>
 			<File
+				RelativePath=".\LogAnalyzerTest.cpp"
+				>
+			</File>
+			<File
+				RelativePath=".\MockEmailService.cpp"
+				>
+			</File>
+			<File
+				RelativePath=".\StubWebService.cpp"
+				>
+			</File>
+			<File
 				RelativePath=".\TestBaseCode.cpp"
 				>
 			</File>
@@ -189,6 +201,18 @@
 			Filter="h;hpp;hxx;hm;inl;inc;xsd"
 			UniqueIdentifier="{93995380-89BD-4b04-88EB-625FBE52EBFB}"
 			>
+			<File
+				RelativePath=".\LogAnalyzerTest.h"
+				>
+			</File>
+			<File
+				RelativePath=".\MockEmailService.h"
+				>
+			</File>
+			<File
+				RelativePath=".\StubWebService.h"
+				>
+			</File>
 		</Filter>
 		<Filter
 			Name="Resource Files"
